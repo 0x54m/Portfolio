@@ -9,6 +9,3 @@ description: Security Researcher
 
 #Build settings
 remote_theme: jekyll/minima
-
-minima:
-  skin: dark
