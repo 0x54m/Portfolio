@@ -1,11 +1,11 @@
-#Education
+# Education
 Bsc Some_Degree
 
-###Work Experience
+### Work Experience
 Security Engineer @ Some_Company
 	•	big impact project 1!
 	•	big impact project 2!
 
-###Projects
+### Projects
 The Best is still yet to come
 _
