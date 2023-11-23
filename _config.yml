@@ -1,7 +1,11 @@
-title: 0x54m
+# Site
+title: testing - 0x54m
 #logo: /assets/img/image.jpeg
 description: Security Researcher
 #show_downloads: true
 #theme: jekyll-theme-minima
-plugins:
-- jekyll-feed
+#plugins:
+#- jekyll-feed
+
+#Build settings
+remote_theme: jekyll/minima
