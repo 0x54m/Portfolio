@@ -8,7 +8,7 @@ description: Security Researcher
 #- jekyll-feed
 
 #Build settings
-remote_theme: jekyll/minima/skins/dark
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
