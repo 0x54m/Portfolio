@@ -2,6 +2,6 @@
 layout: page
 ---
 
-> \xde\xc0\xad\xde
+> \0x5\0x4\0xm
 
 # Welcome to my piece of the Web.
